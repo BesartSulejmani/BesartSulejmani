@@ -45,7 +45,9 @@
 
 [8]: https://docker.com
 
+---
 
+[![Spotify](https://besartsulejmani.vercel.app/api/spotify)](https://open.spotify.com/user/besartsulejmani)
 
 ### **Social Media:**
 
