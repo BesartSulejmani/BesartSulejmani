@@ -4,7 +4,7 @@
 
     Name:           Besart Sulejmani
     Role:           Cloud engineer
-    Company:        [LINKIT](https://github.com/LINKIT-Group)
+    Company:        LINKIT
     Based:          Netherlands
 
 
