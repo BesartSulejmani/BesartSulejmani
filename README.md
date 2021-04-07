@@ -41,8 +41,9 @@
 
 [6]: https://www.terraform.io/
 
-[7]: https://docker.com
-[8]: https://
+[7]: https://code.visualstudio.com/
+
+[8]: https://docker.com
 
 
 
