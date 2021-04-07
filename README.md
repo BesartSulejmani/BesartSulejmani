@@ -46,6 +46,7 @@
 [8]: https://docker.com
 
 ---
+### 🎧 **Playing on Spotify** 
 
 [![Spotify](https://spotify-six-omega.vercel.app/api/spotify)](https://open.spotify.com/user/besartsulejmani)
 
