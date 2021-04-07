@@ -67,3 +67,21 @@
 [2]: https://www.linkedin.com/in/besart-sulejmani-0b92aa25/
 
 [3]: https://instagram.com/besart_s91
+
+<details>
+<summary>
+<b> ⚙ Github Stats</b>
+</summary>
+
+[![Besart's GitHub stats](https://github-readme-stats.vercel.app/api?username=BesartSulejmani&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+<summary>
+<b> ⚙ Language Stats</b>
+</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BesartSulejmani&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
