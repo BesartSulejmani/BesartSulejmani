@@ -1,8 +1,6 @@
-<center> 
-
 # ***Hello World!*** 👋 
 
-</center>
+
 
     Name:           Besart Sulejmani
     Role:           Cloud engineer
@@ -25,15 +23,15 @@
 
 <!-- Icons -->
 
-[4.2]: /interests/Azure.png
+[4.2]: /Interests/Azure.png
 
-[5.2]: /interests/AzureDevOps.png
+[5.2]: /Interests/AzureDevOps.png
 
-[6.2]: /interests/Terraform.png
+[6.2]: /Interests/Terraform.png
 
 [7.2]: /Interests/vscode.png
 
-[8.2]: /interests/dockerwhale.png
+[8.2]: /Interests/dockerwhale.png
 
 <!-- Links -->
 
@@ -54,11 +52,11 @@
 
 <!-- Icons -->
 
-[1.2]: /socials/twitter.png
+[1.2]: /Socials/twitter.png
 
-[2.2]: /socials/linkedin.png
+[2.2]: /Socials/linkedin.png
 
-[3.2]: /socials/instagram.png
+[3.2]: /Socials/instagram.png
 
 <!-- Links to your social media accounts -->
 
