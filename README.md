@@ -47,7 +47,7 @@
 
 ---
 
-[![Spotify](https://besartsulejmani.vercel.app/api/spotify)](https://open.spotify.com/user/besartsulejmani)
+[![Spotify](https://spotify-six-omega.vercel.app/api/spotify)](https://open.spotify.com/user/besartsulejmani)
 
 ### **Social Media:**
 
