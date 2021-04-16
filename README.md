@@ -33,9 +33,9 @@
 
 <!-- Links -->
 
-[4]: https://portal.azure.com
+[4]: https://azure.microsoft.com
 
-[5]: https://dev.azure.com/
+[5]: https://azure.microsoft.com/en-us/services/devops/
 
 [6]: https://www.terraform.io/
 
