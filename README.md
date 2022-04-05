@@ -3,8 +3,8 @@
 ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=BesartSulejmani)
 
     Name:           Besart Sulejmani
-    Role:           Cloud engineer
-    Company:        LINKIT
+    Role:           DevOps Consultant
+    Company:        RawWorks
     Based:          Netherlands
 
 ### **Interests:**
