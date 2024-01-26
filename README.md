@@ -1,8 +1,8 @@
 # ***Hello World!*** 👋 
 
     Name:           Besart Sulejmani
-    Role:           Cloud engineer
-    Company:        LINKIT
+    Role:           Lead Platform Engineer
+    Company:        RawWorks
     Based:          Netherlands
 
 ### **Proficiencies:**
@@ -10,7 +10,7 @@
 Ranging from Containerisation, Orchestration, Infrastructure-as-code and CI/CD to version control and DevOps practices:
 
 <p align="left">
-<a href="https://kubernetes.io/" target="blank"><img align="center" src="/interests/kubernetes.svg" alt="Kubernetes" height="30" width="40" /></a>
+<a href="https://kubernetes.io/" target="blank"><img align="center" src="/Interests/kubernetes.svg" alt="Kubernetes" height="30" width="40" /></a>
 <a href="https://helm.sh/" target="blank"><img align="center" src="/Interests/helm.svg" alt="Helm Charts" height="30" width="40" /></a>
 <a href="https://docker.com" target="blank"><img align="center" src="/Interests/docker.svg" alt="Docker" height="30" width="40" /></a>
 <a href="https://goharbor.io/" target="blank"><img align="center" src="/Interests/harbor.svg" alt="Harbor" height="30" width="40" /></a>
@@ -30,5 +30,3 @@ Ranging from Containerisation, Orchestration, Infrastructure-as-code and CI/CD t
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BesartSulejmani&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
