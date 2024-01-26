@@ -1,8 +1,8 @@
 # ***Hello World!*** 👋 
 
     Name:           Besart Sulejmani
-    Role:           Lead Platform Engineer
-    Company:        RawWorks
+    Role:           Cloud engineer
+    Company:        LINKIT
     Based:          Netherlands
 
 ### **Proficiencies:**
@@ -30,3 +30,5 @@ Ranging from Containerisation, Orchestration, Infrastructure-as-code and CI/CD t
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BesartSulejmani&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
