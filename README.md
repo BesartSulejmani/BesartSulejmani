@@ -22,7 +22,7 @@ Ranging from Containerisation, Orchestration, Infrastructure-as-code and CI/CD t
 
 ### **Social Media:**
 
-<p align="left"> <a href="https://www.linkedin.com/in/besart-sulejmani-0b92aa25/" target="blank"><img align="center" src="/Socials/linkedin.png" alt="Linkedin" height="30" width="40" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/besart-sulejmani-0b92aa25/" target="blank"><img align="center" src="/Socials/linkedin.png" alt="Linkedin" height="30" width="30" /></a> </p>
 
 ### ⚙ Github Stats
 
