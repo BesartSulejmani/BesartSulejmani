@@ -28,6 +28,3 @@ Ranging from Containerisation, Orchestration, Infrastructure-as-code and CI/CD t
 ### ⚙ Github Stats
 
 [![Besart's GitHub stats](https://github-readme-stats.vercel.app/api?username=BesartSulejmani&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BesartSulejmani&theme=react)](https://github.com/anuraghazra/github-readme-stats)
